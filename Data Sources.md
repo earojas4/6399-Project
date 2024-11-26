@@ -5,7 +5,7 @@
 - "Millimeter-Level Plant Disease Detection from Aerial Photographs via Deep Learning and Crowdsourced Data" (Wiesner-Hanks et al., 2019) 
     - Annotated ground level and aerial images of healthy and leaf blight afflicted corn leaves were used from this set. 
 - "Banana Disease Detection Dataset" (MMU ,2023)
-    -615 ground level images of banana leaves with fusarium wilt were used from this set
+    - 615 ground level images of banana leaves with fusarium wilt were used from this set
 - "A Dataset of UAV Multispectral Images for Banana Fusarium Wilt Survey" (Ye et al., 2022)
     - A large TIF (2.14GB) UAV image from this dataset was converted and augmented for use in this project. Bounding boxes for fusarium wilt afflicted banana trees had to be drawn on this large image based on the accompanying ground survey.
 - Banana Disease Recognition Dataset (Mafi et al., 2023)
