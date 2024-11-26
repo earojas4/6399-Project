@@ -3,7 +3,7 @@
 ## The following publicly available datasets were used:
 
 *	Plant Diseases Detection Dataset “ (Khan, 2023)
-    *This dataset includes annotated ground-level images from 30 classes of diseased and healthy plant species. Only Corn leaf blight, Corn Gray leaf spot, Corn rust leaf and Cherry leaf were used.
+    +This dataset includes annotated ground-level images from 30 classes of diseased and healthy plant species. Only Corn leaf blight, Corn Gray leaf spot, Corn rust leaf and Cherry leaf were used.
 
 *	Millimeter-Level Plant Disease Detection from Aerial Photographs via Deep Learning and Crowdsourced Data (Wiesner-Hanks et al., 2019) 
 
