@@ -1,6 +1,5 @@
 import torch
 from torch.utils.data import Dataset
-from torchvision.transforms import ToTensor
 
 class CustomDataset(Dataset):
     def __init__(self, annotations_file, img_dir, transform=None, class_limit=None):
