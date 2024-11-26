@@ -16,7 +16,7 @@ Combined Set
 
 The combined dataset featured 13716 images with 50435 annotations total. Corn leaf blight was limited to 1000 (train)/250 (test).
 
-Training and Validation
+## Training and Validation
 
 All models were coded in python, using the Pytorch library, and trained within a Google Colab environment(on a T4 GPU High RAM runtime). The predefined architectures used for this project were AlexNet, VGG19, mobileNet V3 small, GoogleNet and ResNet50 were loaded in with their default weights. The fully connected heads were modified to classify the dataset into 10 distinct classes. Adam was used as the optimizer and Cross Entropy Loss was the loss function used for all models. A Step LR (step size= 10) was used to adjust the learning rate as validation progressed.
 POV Models and Full Set Models
