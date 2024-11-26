@@ -5,7 +5,7 @@ Average Recall for all classes: 0.74
 
 Average F1 Score for all classes: 0.74
 
-Overall Accuracy: 0.8019047619047619
+Overall Accuracy: 0.8019
 
 # Metrics for all classes 
 ## Cherry leaf healthy:
