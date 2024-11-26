@@ -1,3 +1,10 @@
+# Average Metrics
+Average Precision for all classes: 0.75
+Average Recall for all classes: 0.74
+Average F1 Score for all classes: 0.74
+Overall Accuracy: 0.8019047619047619
+
+# Metrics for all classes 
 ## Cherry leaf healthy:
 Precision = 0.74, Recall = 0.74, F1 Score = 0.74
 ## Corn Gray leaf spot:
