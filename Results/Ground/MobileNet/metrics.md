@@ -1,7 +1,10 @@
 # Average Metrics
 Average Precision for all classes: 0.89
+
 Average Recall for all classes: 0.88
+
 Average F1 Score for all classes: 0.88
+
 Overall Accuracy: 0.9105
 # Metrics Across Classes
 ## Peach leaf healthy
