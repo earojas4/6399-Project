@@ -1,6 +1,3 @@
-import torch
-from torch.utils.data import Dataset
-
 class CustomDataset(Dataset):
     def __init__(self, annotations_file, img_dir, transform=None, class_limit=None):
         # Load the annnotations csv file
