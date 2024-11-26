@@ -1,4 +1,4 @@
-| POV Combined Model                | Score       |
+| Average Metric                    | Score       |
 |-----------------------------------|-------------|
 | Average Precision for all classes | 0.838       |
 | Average Recall for all classes    | 0.85        |
