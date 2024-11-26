@@ -1,3 +1,13 @@
+| POV Combined Model                |             |
+|-----------------------------------|-------------|
+| Average Precision for all classes | 0.838       |
+| Average Recall for all classes    | 0.85        |
+| F1 Score for all classes          | 0.83        |
+| Overall Accuracy                  | 0.851756955 |
+
+
+
+
 | Crop                     | Precision | Recall | F1 Score |
 |--------------------------|-----------|--------|----------|
 | Banana healthy           | 0.92      | 0.81   | 0.86     |
