@@ -1,4 +1,4 @@
-
+# Data Sources
 The following publicly available datasets were used:
 •	Plant Diseases Detection Dataset “ (Khan, 2023)
 o	This dataset includes annotated ground-level images from 30 classes of diseased and healthy plant species. Only Corn leaf blight, Corn Gray leaf spot, Corn rust leaf and Cherry leaf were used.
