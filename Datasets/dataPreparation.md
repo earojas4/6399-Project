@@ -23,4 +23,4 @@ The ground set required less data preparation than the aerial set. Overall, ther
 Banana fusarium wilt was limited to 800 (training)/200(test) and peach leaf healthy was also limited to 800(training)/200(test). (see **ground_train_and_test_customDataset.py**)
 
 ## Combined Set
-The combined dataset featured 13716 images with 50435 annotations total. Corn leaf blight was limited to 1000 (train)/250 (test).
+The combined dataset featured 13716 images with 50435 annotations total. Corn leaf blight was limited to 1000 (train)/250 (test). (see **full_dataset_customDataset.py**)
