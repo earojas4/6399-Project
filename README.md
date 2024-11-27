@@ -1,5 +1,5 @@
 # View Based Training of Convolutional Neural Networks for Plant Disease Identification
-##Project Description
+## Project Description
 Crop losses due to disease are estimated to cost the global economy $220 billion. By the year 2050, up to 50% more food must be produced to feed the world’s growing population. (Food and Agriculture Organization of the United Nations, 2024) Detecting diseases earlier could be key in this needed production increase. 
 This research aims to explore the effects of combining aerial crop image data (macro-level) with ground-level images of leaves (micro-level) for the purposes of crop disease identification. By incorporating varying viewpoints, disease identification performance may be improved.
 To achieve this, transfer learning was used to pretrain models with images from each point of view. Previous research has shown variability among widely used Convolutional Neural Network architectures(Tirkey et al. (2023)) (Roy & Bhaduri (2021)) (Jafar et al. (2024)). 
