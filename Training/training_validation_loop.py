@@ -37,6 +37,7 @@ for fold, (train_idx, val_idx) in enumerate(kfold.split(dataset)):
     scheduler = torch.optim.lr_scheduler.StepLR(optimizer, step_size=10, gamma=0.1)
 
     # Each fold is trained
+    # Credit to (Loeber, 2022) for Pytorch training loop code. Full reference in Reference List
     for epoch in range(num_epochs):
         model.train()
         running_loss = 0.0
