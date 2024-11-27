@@ -6,12 +6,13 @@ To achieve this, transfer learning was used to pretrain models with images from 
 AlexNet (Krizhevsky et al., 2017), MobileNetv3(Howard et al., 2017), GoogleNet(Szegedy et al., 2015) and VGG19 (Simonyan & Zisserman, 2014) architectures were used in this project.
 The compiled image dataset features healthy and diseased peach, corn, cherry and banana plants. After combining the weights of these POV models, their precision, recall and F1 scores are compared against models that were trained on the full data without concern for point of view. 
 
+
 ## Navigation
 ### Datasets
 Data preperation and import code for each set
 
 ### Results
-Metrics and confusion matrices for each model grouped by POV first then architecture
+Metrics and confusion matrices for each model grouped by POV first then architecture. Overall analysis is also within this folder
 
 ### Testing and metrics
 Code used to test each model, generate confusion matrices and calculate metrics
@@ -19,3 +20,8 @@ Code used to test each model, generate confusion matrices and calculate metrics
 ### References
 Full reference list for the project
 
+
+## Conclusion
+In this project, the separate training of ground and aerial models before combination largely did not result in performance gains over models trained on the full mixed dataset. At this point farmers would be better served by feeding their images into separate models for classification based on their point of view, rather than using any unified model or models trained without concern for point of view.
+
+Due to the lack of consistent height and angle aerial image sets, the WITW model is not yet feasible. This project attempted to strike a middle ground between WITW and having separate models for aerial and ground plant disease identification. Future research may be better served by gathering aerial image data from constant height and angle. While the height of the UAV images in the peach, cherry and banana datasets was constant, they were from such a distance that finding common features between the ground and aerial datasets would have proven difficult. More datasets like the NLB corn dataset would be helpful for this task. 
