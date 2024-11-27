@@ -9,7 +9,7 @@ The compiled image dataset features healthy and diseased peach, corn, cherry and
 
 ## Navigation
 ### Datasets
-Data preperation and import code for each dataset
+Data preparation and import code for each dataset
 
 ### Training
 Includes the training and validation loops used for all separate POV models and the full dataset trained models. 
