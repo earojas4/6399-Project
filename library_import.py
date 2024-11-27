@@ -1,4 +1,4 @@
-#These were all the libraries imported at the begining of the notebook
+#These were all the libraries imported at the beginning of the notebook
 import os
 import pandas as pd
 import numpy as np
