@@ -12,8 +12,8 @@ The classes used in this set were: Corn leaf blight, Banana Fusarium Wilt, Banan
 
 ## Aerial Set
 Since the hyperspectral aerial images within the cherry, peach and banana datasets were in large TIF files, they first had to be converted into a JPEG map within QGIS and manually labelled within RoboFlow based on the csv map included by the image dataset creators.
-Aerial images from these sets were then augmented via tiling (3x3), 90 degrees rotation (counterclockwise or clockwise), hue variation (between -15 and +15), saturation variation (between -25 and +25), blurring and random noise. This resulted in 1788 images from the cherry and peach images aerial images from the original 62 images. 
-After adding in the augmented images, the aerial dataset included 9638 images with 42725 annotations. 
+Aerial images from these sets were then augmented via tiling (3x3), 90 degrees rotation (counterclockwise or clockwise), hue variation (between -15 and +15), saturation variation (between -25 and +25), blurring and random noise. This resulted in 1788 images from the cherry and peach images aerial images from the original 62 images. After adding in the augmented images, the aerial dataset included 9638 images with 42725 annotations.
+
 Overrepresented class annotations were limited when imported into Google Colab to ensure the training and testing datasets were as balanced as possible. 
 Corn leaf blight was limited to 800 (training)/200 (test); Cherry armillaria mellea was limited to 800(training) / 200(test); and Peach anarsia lineatella was limited to 800 (training)/200 (test). (see **aerial_train_and_test_customDataset.py**)
 Images with unrecognized annotations or annotations over their class limit were not trained or tested on.
