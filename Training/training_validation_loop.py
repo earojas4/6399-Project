@@ -9,6 +9,7 @@ fold_losses = []
 num_epochs=30
 
 # K-fold cross-validation
+# Credit to (Skipper, 2020) full reference in Reference List
 for fold, (train_idx, val_idx) in enumerate(kfold.split(dataset)):
     print(f"FOLD {fold+1}\n******************************************")
 
