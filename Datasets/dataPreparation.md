@@ -24,3 +24,9 @@ Banana fusarium wilt was limited to 800 (training)/200(test) and peach leaf heal
 
 ## Combined Set
 The combined dataset featured 13716 images with 50435 annotations total. Corn leaf blight was limited to 1000 (train)/250 (test). (see **full_dataset_customDataset.py**)
+
+
+## Data Loading
+Training datasets are further split into training and validition subsets for use in k-fold cross validation for most models. This is covered in **training_validation_loop.py**. The loaders change with each fold in that loop.
+
+K-fold cross validation does not take place before testing in the POV Combined models and can be passed into a dataLoader just once. Testing datasets can be passed into a dataLoader right after importing the dataset. (see **sample_loader.py** for and example of train and test dataLoaders) 
