@@ -1,11 +1,11 @@
 # Data Preparation
 The datasets were first compiled into separate Ground and Aerial POV datasets within RoboFlow. Most datasets were already annotated or annotation instructions. 
 RoboFlow also allowed the annotations to be unified into one consistent format (Retinanet Keras CSV). Each class was split 80/20 training/test before exporting. 
-The datasets were then imported into a Google Colab notebook via RF’s API and transformed to ensure they are within the expected parameters for the architectures used in this project. (See aerial_dataset_roboflow_importer.py for example) 
+The datasets were then imported into a Google Colab notebook via RF’s API and transformed to ensure they are within the expected parameters for the architectures used in this project. (See **aerial_dataset_roboflow_importer.py** for example) 
 
-These transformations included ensuring the photos were within the RGB color space, resizing them to 224x224 pixels normalizing their pixel values and transforming the image data type to a Pytorch tensor. ( See transforms.py)
+These transformations included ensuring the photos were within the RGB color space, resizing them to 224x224 pixels normalizing their pixel values and transforming the image data type to a Pytorch tensor. ( See **transforms.py**)
 
-Class labels were also converted to integers to ensure compatibility. (see CustomDataset_importer.py for CustomDataset class used for importing)
+Class labels were also converted to integers to ensure compatibility. (see **CustomDataset_importer.py** for CustomDataset class used for importing)
 
 The combined dataset has different images /annotations within its splits than its POV counterparts.
 The classes used in this set were: Corn leaf blight, Banana Fusarium Wilt, Banana healthy, Cherry armillaria mellea, Cherry leaf healthy, Corn Gray leaf spot, Corn leaf healthy, Corn rust leaf, Peach Anarsia Lineatella, and Peach leaf healthy.
