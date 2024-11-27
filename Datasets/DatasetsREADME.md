@@ -1,7 +1,7 @@
 # Data Preparation
 The datasets were first compiled into separate Ground and Aerial POV datasets within RoboFlow. Most datasets were already annotated or annotation instructions. 
 RoboFlow also allowed the annotations to be unified into one consistent format (Retinanet Keras CSV). Each class was split 80/20 training/test before exporting. 
-Before importing into the coding workspace, the necesarry libraries must be imported. (see **library_import.py**) 
+Before importing into the coding workspace, the necessary libraries must be imported. (see **library_import.py**) 
 The datasets were then imported into a Google Colab notebook via RF’s API and transformed to ensure they are within the expected parameters for the architectures used in this project. (See **aerial_dataset_roboflow_importer.py** for example) 
 
 These transformations included ensuring the photos were within the RGB color space, resizing them to 224x224 pixels normalizing their pixel values and transforming the image data type to a Pytorch tensor. ( See **transforms.py**)
