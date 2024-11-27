@@ -9,13 +9,17 @@ The compiled image dataset features healthy and diseased peach, corn, cherry and
 
 ## Navigation
 ### Datasets
-Data preperation and import code for each set
+Data preperation and import code for each dataset
 
-### Results
-Metrics and confusion matrices for each model grouped by POV first then architecture. Overall analysis is also within this folder
+### Training
+Includes the training and validation loops used for all separate POV models and the full dataset trained models. 
+Shorter training for finetuning was done on the Combined POV models.
 
 ### Testing and metrics
 Code used to test each model, generate confusion matrices and calculate metrics
+
+### Results
+Metrics and confusion matrices for each model grouped by POV first then architecture. Overall analysis is also within this folder
 
 ### References
 Full reference list for the project
