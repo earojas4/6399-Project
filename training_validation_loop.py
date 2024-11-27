@@ -1,10 +1,3 @@
-import torch
-import torch.nn as nn
-from sklearn.model_selection import KFold
-from torch.utils.data import DataLoader
-from torchvision import models
-
-
 num_classes = 10
 # Since the dataset was only divided into training and test sets, the training set will be divided into training and validation subsets.
 # Since some classes in this set ar small, 10-fold validation may result in them being severely underepresented in some folds. 5 folds appear to strike a good balance.
