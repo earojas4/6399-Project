@@ -4,9 +4,12 @@ RoboFlow also allowed the annotations to be unified into one consistent format (
 The datasets were then imported into a Google Colab notebook via RF’s API and transformed to ensure they are within the expected parameters for the architectures used in this project. (See aerial_dataset_roboflow_importer.py for example) 
 
 These transformations included ensuring the photos were within the RGB color space, resizing them to 224x224 pixels normalizing their pixel values and transforming the image data type to a Pytorch tensor. ( See transforms.py)
+
 Class labels were also converted to integers to ensure compatibility. (see CustomDataset_importer.py for CustomDataset class used for importing)
+
 The combined dataset has different images /annotations within its splits than its POV counterparts.
 The classes used in this set were: Corn leaf blight, Banana Fusarium Wilt, Banana healthy, Cherry armillaria mellea, Cherry leaf healthy, Corn Gray leaf spot, Corn leaf healthy, Corn rust leaf, Peach Anarsia Lineatella, and Peach leaf healthy.
+
 ## Aerial Set
 Since the hyperspectral aerial images within the cherry, peach and banana datasets were in large TIF files, they first had to be converted into a JPEG map within QGIS and manually labelled within RoboFlow based on the csv map included by the image dataset creators.
 Aerial images from these sets were then augmented via tiling (3x3), 90 degrees rotation (counterclockwise or clockwise), hue variation (between -15 and +15), saturation variation (between -25 and +25), blurring and random noise. This resulted in 1788 images from the cherry and peach images aerial images from the original 62 images. 
