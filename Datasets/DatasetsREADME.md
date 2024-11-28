@@ -12,7 +12,7 @@ The combined dataset has different images /annotations within its splits than it
 The classes used in this set were: Corn leaf blight, Banana Fusarium Wilt, Banana healthy, Cherry armillaria mellea, Cherry leaf healthy, Corn Gray leaf spot, Corn leaf healthy, Corn rust leaf, Peach Anarsia Lineatella, and Peach leaf healthy.
 
 ## Aerial Set
-Since the hyperspectral aerial images within the cherry, peach and banana datasets were in large TIF files, they first had to be converted into a JPEG map within QGIS and manually labelled within RoboFlow based on the csv map included by the image dataset creators.
+Since the multispectral aerial images within the cherry, peach and banana datasets were in large TIF files, they first had to be converted into a JPEG map within QGIS and manually labelled within RoboFlow based on the csv map included by the image dataset creators.
 Aerial images from these sets were then augmented via tiling (3x3), 90 degrees rotation (counterclockwise or clockwise), hue variation (between -15 and +15), saturation variation (between -25 and +25), blurring and random noise. This resulted in 1788 images from the cherry and peach images aerial images from the original 62 images. After adding in the augmented images, the aerial dataset included 9638 images with 42725 annotations.
 
 Overrepresented class annotations were limited when imported into Google Colab to ensure the training and testing datasets were as balanced as possible. 
