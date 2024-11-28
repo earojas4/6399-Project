@@ -1,10 +1,18 @@
 # Reference List
 
-Chaschatzis, C., Siniosoglou, I., Triantafyllou, A., Karaiskou, C., Liatifis, A., Radoglou-Grammatikis, P., Pliatsios, D., Kelli, V., Lagkas, T., Argyriou, V., & Sarigiannidis, P. (2024). Peach Tree Disease Detection Dataset. IEEE.
+Chaschatzis, C., Karaiskou, C., Mouratidis, E. G., Karagiannis, E., & Sarigiannidis, P. G. (2021). Detection and 
 
-Chaschatzis, C., Siniosoglou. Ilias, Triantafyllou, A., Karaiskou, C., Liatifis, A., Radoglou-Grammatikis, P., Pliatsios, D., Kelli, V., Lagkas, T., Argriou, V., & Sarigiannidis, O. (2024). Cherry Tree Disease Detection Dataset | IEEE DataPort. https://ieee-dataport.org/documents/cherry-tree-disease-detection-dataset
+Characterization of Stressed Sweet Cherry Tissues Using Machine Learning. https://doi.org/10.3390/drones
 
-Datasets & DataLoaders — PyTorch Tutorials 2.5.0+cu124 documentation. (n.d.). Retrieved October 12, 2024, from https://pytorch.org/tutorials/beginner/basics/data_tutorial.html?highlight=dataset
+Chaschatzis, C., Siniosoglou, I., Triantafyllou, A., Karaiskou, C., Liatifis, A., Radoglou-Grammatikis, P., Pliatsios, D., 
+
+Kelli, V., Lagkas, T., Argyriou, V., & Sarigiannidis, P. (2024). Peach Tree Disease Detection Dataset. IEEE. https://ieee-dataport.org/documents/peach-tree-disease-detection-dataset
+
+Chaschatzis, C., Siniosoglou. Ilias, Triantafyllou, A., Karaiskou, C., Liatifis, A., Radoglou-Grammatikis, P., Pliatsios, 
+
+D., Kelli, V., Lagkas, T., Argriou, V., & Sarigiannidis, O. (2024). Cherry Tree Disease Detection Dataset | IEEE DataPort. https://ieee-dataport.org/documents/cherry-tree-disease-detection-dataset
+
+Datasets & DataLoaders — PyTorch Tutorials 2.5.0+cu124 documentation. (n.d.). Retrieved October 11, 2024, from https://pytorch.org/tutorials/beginner/basics/data_tutorial.html?highlight=dataset
 
 Food and Agriculture Organization of the United Nations. (2024). Plant Production and Protection. https://www.fao.org/plant-production-protection/about/en
 
@@ -22,13 +30,19 @@ Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2017). ImageNet classification w
 
 Loeber, P. (2022). PytorchTutorial - 14_cnn.py. Github. https://github.com/patrickloeber/pytorchTutorial/blob/master/14_cnn.py
 
+Lytos, A., Lagkas, T., Sarigiannidis, P., Zervakis, M., & Livanos, G. (2020). Towards smart farming: Systems, frameworks and exploitation of multiple sources. Computer Networks, 172. https://doi.org/10.1016/j.comnet.2020.107147
+
 Mafi, M. M. H. M., Sifat, R. M., Moazzam, Md. G. M., & Uddin, M. S. (2023). Banana Disease Recognition Dataset. 1. https://doi.org/10.17632/79W2N6B4KF.1
 
 Mishra, S., Sachan, R., & Rajpal, D. (2020). Deep Convolutional Neural Network based Detection System for Real-time Corn Plant Disease Recognition. Procedia Computer Science, 167, 2003–2010. https://doi.org/10.1016/J.PROCS.2020.03.236
 
 MMU. (2023). Banana Disease Detection Dataset. https://universe.roboflow.com/mmu-ehb9f/banana-disease-detection-k42h6
 
-Roy, A. M., & Bhaduri, J. (2021). A Deep Learning Enabled Multi-Class Plant Disease Detection Model Based on Computer Vision. AI 2021, Vol. 2, Pages 413-428, 2(3), 413–428. https://doi.org/10.3390/AI2030026
+Radoglou-Grammatikis, P., Sarigiannidis, P., Lagkas, T., & Moscholios, I. (2020). A compilation of UAV applications for precision agriculture. Computer Networks, 172. https://doi.org/10.1016/j.comnet.2020.107148
+
+Roy, A. M., & Bhaduri, J. (2021). A Deep Learning Enabled Multi-Class Plant Disease Detection Model Based on Computer 
+
+Vision. AI 2021, Vol. 2, Pages 413-428, 2(3), 413–428. https://doi.org/10.3390/AI2030026
 
 Shi, Y. (2021). Where am I looking at? Joint Location and Orientation Estimation by Cross-View Matching. GIthub. https://github.com/YujiaoShi/cross_view_localization_DSM
 
@@ -38,11 +52,13 @@ Skipper. (2020). K-fold cross validation using DataLoaders in PyTorch. Stack Ove
 
 Szegedy, C., Liu, W., Jia, Y., Sermanet, P., Reed, S., Anguelov, D., Erhan, D., Vanhoucke, V., & Rabinovich, A. (2015). Going deeper with convolutions. Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 07-12-June-2015, 1–9. https://doi.org/10.1109/CVPR.2015.7298594
 
-Tetila, E. C., Machado, B. B., Menezes, G. K., Da Silva Oliveira, A., Alvarez, M., Amorim, W. P., De Souza Belete, N. A., Da Silva, G. G., & Pistori, H. (2020). Automatic Recognition of Soybean Leaf Diseases Using UAV Images and Deep Convolutional Neural Networks. IEEE Geoscience and Remote Sensing Letters, 17(5), 903–907. https://doi.org/10.1109/LGRS.2019.2932385
+Tetila, E. C., Machado, B. B., Menezes, G. K., Da Silva Oliveira, A., Alvarez, M., Amorim, W. P., De Souza Belete, N. A., Da 
+
+Silva, G. G., & Pistori, H. (2020). Automatic Recognition of Soybean Leaf Diseases Using UAV Images and Deep Convolutional Neural Networks. IEEE Geoscience and Remote Sensing Letters, 17(5), 903–907. https://doi.org/10.1109/LGRS.2019.2932385
 
 Tirkey, D., Singh, K. K., & Tripathi, S. (2023). Performance analysis of AI-based solutions for crop disease identification, detection, and classification. Smart Agricultural Technology, 5, 100238. https://doi.org/10.1016/J.ATECH.2023.100238
 
 Wiesner-Hanks, T., Wu, H., Stewart, E., DeChant, C., Kaczmar, N., Lipson, H., Gore, M. A., & Nelson, R. J. (2019). Millimeter-Level Plant Disease Detection From Aerial Photographs via Deep Learning and Crowdsourced Data. Frontiers in Plant Science, 10. https://doi.org/10.3389/FPLS.2019.01550/FULL
 
 Ye, H., Chen, S., Guo, A., NIe, C., & Wang, J. (2022, December 30). A dataset of UAV multispectral images for banana Fusarium wilt survey. https://doi.org/https://doi.org/10.57760/sciencedb.07000
- 
+
