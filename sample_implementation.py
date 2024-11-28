@@ -47,7 +47,7 @@ selected_classes = {
             'Peach Anarsia Lineatella',
             'Peach leaf healthy'}
 
-lass CustomDataset(Dataset):
+class CustomDataset(Dataset):
     def __init__(self, annotations_file, img_dir, transform=None, class_limit=None):
         self.annotations = pd.read_csv(annotations_file, header=None)
         self.img_dir = img_dir
