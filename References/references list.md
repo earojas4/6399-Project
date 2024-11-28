@@ -1,8 +1,6 @@
 # Reference List
 
-Chaschatzis, C., Karaiskou, C., Mouratidis, E. G., Karagiannis, E., & Sarigiannidis, P. G. (2021). Detection and 
-
-Characterization of Stressed Sweet Cherry Tissues Using Machine Learning. https://doi.org/10.3390/drones
+Chaschatzis, C., Karaiskou, C., Mouratidis, E. G., Karagiannis, E., & Sarigiannidis, P. G. (2021). Detection and Characterization of Stressed Sweet Cherry Tissues Using Machine Learning. https://doi.org/10.3390/drones
 
 Chaschatzis, C., Siniosoglou, I., Triantafyllou, A., Karaiskou, C., Liatifis, A., Radoglou-Grammatikis, P., Pliatsios, D., 
 
