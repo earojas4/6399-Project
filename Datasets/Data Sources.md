@@ -12,6 +12,6 @@
     - The augmented folder of 602 ground-level healthy banana leaf images was used for this project. They did not include annotations. Bounding boxes were drawn manually. 
 ## The following dataset were purchased from the Institute of Electrical and Electronics Engineers’ Dataport:
 - “Cherry Tree Disease Detection Dataset” (Chaschatzis, Siniosoglou,. Ilias, et al., 2024)
-    - This set included ground and hyperspectral aerial images of healthy cherry trees along with cherry trees infected with armillaria mellea (crown and root rot)
+    - This set included ground and multispectral aerial images of healthy cherry trees along with cherry trees infected with armillaria mellea (crown and root rot)
 - "Peach Tree Disease Detection Dataset" (Chaschatzis, Siniosoglou, et al., 2024)
-    - This set included ground and hyperspectral aerial images of healthy peach trees and cherry trees with Anarsia lineatella (peach twig borer) or Grapholita molesta infestations. Only the healthy and Anarsia lineatella images were used. 
+    - This set included ground and multispectral aerial images of healthy peach trees and cherry trees with Anarsia lineatella (peach twig borer) or Grapholita molesta infestations. Only the healthy and Anarsia lineatella images were used. 
