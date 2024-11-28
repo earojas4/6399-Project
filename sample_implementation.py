@@ -165,7 +165,7 @@ for epoch in range(num_epochs):
         optimizer.step()
 
 print("Fine-tuning completed.")
-
+# (Loeber, 2022)
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 unified_model.to(device)
 unified_model.eval()
