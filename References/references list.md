@@ -3,11 +3,9 @@
 Chaschatzis, C., Karaiskou, C., Mouratidis, E. G., Karagiannis, E., & Sarigiannidis, P. G. (2021). Detection and Characterization of Stressed Sweet Cherry Tissues Using Machine Learning. https://doi.org/10.3390/drones
 
 Chaschatzis, C., Siniosoglou, I., Triantafyllou, A., Karaiskou, C., Liatifis, A., Radoglou-Grammatikis, P., Pliatsios, D., 
-
 Kelli, V., Lagkas, T., Argyriou, V., & Sarigiannidis, P. (2024). Peach Tree Disease Detection Dataset. IEEE. https://ieee-dataport.org/documents/peach-tree-disease-detection-dataset
 
 Chaschatzis, C., Siniosoglou. Ilias, Triantafyllou, A., Karaiskou, C., Liatifis, A., Radoglou-Grammatikis, P., Pliatsios, 
-
 D., Kelli, V., Lagkas, T., Argriou, V., & Sarigiannidis, O. (2024). Cherry Tree Disease Detection Dataset | IEEE DataPort. https://ieee-dataport.org/documents/cherry-tree-disease-detection-dataset
 
 Datasets & DataLoaders — PyTorch Tutorials 2.5.0+cu124 documentation. (n.d.). Retrieved October 11, 2024, from https://pytorch.org/tutorials/beginner/basics/data_tutorial.html?highlight=dataset
