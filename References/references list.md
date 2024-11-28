@@ -4,7 +4,7 @@ Chaschatzis, C., Siniosoglou, I., Triantafyllou, A., Karaiskou, C., Liatifis, A.
 
 Chaschatzis, C., Siniosoglou. Ilias, Triantafyllou, A., Karaiskou, C., Liatifis, A., Radoglou-Grammatikis, P., Pliatsios, D., Kelli, V., Lagkas, T., Argriou, V., & Sarigiannidis, O. (2024). Cherry Tree Disease Detection Dataset | IEEE DataPort. https://ieee-dataport.org/documents/cherry-tree-disease-detection-dataset
 
-Datasets & DataLoaders — PyTorch Tutorials 2.5.0+cu124 documentation. (n.d.). Retrieved November 25, 2024, from https://pytorch.org/tutorials/beginner/basics/data_tutorial.html?highlight=dataset
+Datasets & DataLoaders — PyTorch Tutorials 2.5.0+cu124 documentation. (n.d.). Retrieved October 12, 2024, from https://pytorch.org/tutorials/beginner/basics/data_tutorial.html?highlight=dataset
 
 Food and Agriculture Organization of the United Nations. (2024). Plant Production and Protection. https://www.fao.org/plant-production-protection/about/en
 
