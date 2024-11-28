@@ -2,8 +2,7 @@
 ## The following publicly available datasets were used:
 - "Plant Diseases Detection Dataset “ (Khan, 2023)
     - This dataset includes annotated ground-level images from 30 classes of diseased and healthy plant species. Only Corn leaf blight, Corn Gray leaf spot, Corn rust leaf and Cherry leaf were used.
-- "Millimeter-Level Plant Disease Detection from Aerial Photographs via Deep Learning and Crowdsourced Data" (Wiesner-Hanks et al., 2019) 
-    - Annotated ground level and aerial images of healthy and leaf blight afflicted corn leaves were used from this set. 
+- "Millimeter-Level Plant Disease Detection from Aerial Photographs via Deep Learning and Crowdsourced Data" (Wiesner-Hanks et al., 2019)
 - "Banana Disease Detection Dataset" (MMU ,2023)
     - 615 ground level images of banana leaves with fusarium wilt were used from this set
 - "A Dataset of UAV Multispectral Images for Banana Fusarium Wilt Survey" (Ye et al., 2022)
@@ -15,3 +14,6 @@
     - This set included ground and multispectral aerial images of healthy cherry trees along with cherry trees infected with armillaria mellea (crown and root rot)
 - Peach Tree Disease Detection Dataset(Chaschatzis, Siniosoglou, et al. (2024))(Lytos et al., 2020)(Radoglou-Grammatikis et al., 2020)(Chaschatzis et al., 2021
     - This set included ground and multispectral aerial images of healthy peach trees and cherry trees with Anarsia lineatella (peach twig borer) or Grapholita molesta infestations. Only the healthy and Anarsia lineatella images were used. 
+- IIITDMJ_Maize (Singh Thakur et al., 2024)
+    - Annotated ground level and aerial images of healthy; common rust, gray leaf spot and leaf blight afflicted corn leaves
+
