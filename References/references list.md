@@ -37,7 +37,6 @@ MMU. (2023). Banana Disease Detection Dataset. https://universe.roboflow.com/mmu
 Radoglou-Grammatikis, P., Sarigiannidis, P., Lagkas, T., & Moscholios, I. (2020). A compilation of UAV applications for precision agriculture. Computer Networks, 172. https://doi.org/10.1016/j.comnet.2020.107148
 
 Roy, A. M., & Bhaduri, J. (2021). A Deep Learning Enabled Multi-Class Plant Disease Detection Model Based on Computer 
-
 Vision. AI 2021, Vol. 2, Pages 413-428, 2(3), 413–428. https://doi.org/10.3390/AI2030026
 
 Shi, Y. (2021). Where am I looking at? Joint Location and Orientation Estimation by Cross-View Matching. GIthub. https://github.com/YujiaoShi/cross_view_localization_DSM
