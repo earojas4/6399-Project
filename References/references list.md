@@ -48,7 +48,6 @@ Skipper. (2020). K-fold cross validation using DataLoaders in PyTorch. Stack Ove
 Szegedy, C., Liu, W., Jia, Y., Sermanet, P., Reed, S., Anguelov, D., Erhan, D., Vanhoucke, V., & Rabinovich, A. (2015). Going deeper with convolutions. Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 07-12-June-2015, 1–9. https://doi.org/10.1109/CVPR.2015.7298594
 
 Tetila, E. C., Machado, B. B., Menezes, G. K., Da Silva Oliveira, A., Alvarez, M., Amorim, W. P., De Souza Belete, N. A., Da 
-
 Silva, G. G., & Pistori, H. (2020). Automatic Recognition of Soybean Leaf Diseases Using UAV Images and Deep Convolutional Neural Networks. IEEE Geoscience and Remote Sensing Letters, 17(5), 903–907. https://doi.org/10.1109/LGRS.2019.2932385
 
 Tirkey, D., Singh, K. K., & Tripathi, S. (2023). Performance analysis of AI-based solutions for crop disease identification, detection, and classification. Smart Agricultural Technology, 5, 100238. https://doi.org/10.1016/J.ATECH.2023.100238
